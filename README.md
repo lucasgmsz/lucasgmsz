@@ -1,4 +1,12 @@
-### Hi there 👋
+# Lucas Gomes
+
+### Hello devs 👋
+
+I’m currently learning React and node.js with the NLW event from rocketseat. 
+
+I'm really excited to develop my first React app. 
+
+That's it, see you space cowboy! 😄
 
 <!--
 **lucasgmsz/lucasgmsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
