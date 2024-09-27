@@ -1,8 +1,9 @@
-# Lucas Gomes
+# Hello World! 👋
 
-### Hello there 👋
+I’m a passionate Full Stack Developer with a strong focus on C# and extensive experience in building robust applications. My expertise spans across both front-end and back-end development, allowing me to create seamless and efficient solutions.
 
-- 🔭 I’m currently working on developing a hospital management system in my job.
-- ⚡ I’m currently learning Javascript in my free time.
-- 😄 That's it for now, I hope to get +10 repositories this year.
-
+⚡ Skills:
+- Languages: C#, JavaScript, HTML, CSS
+- Frameworks: ASP.NET, .NET Core, React, Angular
+- Databases: SQL Server, MongoDB
+- Tools: Visual Studio, Git, Azure DevOps
